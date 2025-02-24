@@ -6,7 +6,9 @@ computer Engineering And digital Technology Chulongkorn
 
 # What's my skills.
 -code with c++ , c and python.  
--arduino ide.  
+-arduino ide. 
+-photo_shop,premier_pro
+-Java/JavaFx
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,arduino,vscode)](https://skillicons.dev)
 
