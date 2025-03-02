@@ -9,6 +9,8 @@ computer Engineering And digital Technology Chulongkorn
 -arduino ide. 
 -photo_shop, premier_pro.  
 -java&JavaFx. 
+-Sql.
+-Tableau.
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,arduino,vscode)](https://skillicons.dev)
 
