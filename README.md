@@ -7,10 +7,10 @@ computer Engineering And digital Technology Chulongkorn
 # What's my skills.
 -code with c++ , c and python.  
 -arduino ide. 
--photo_shop, premier_pro.  
+ photo_shop, premier_pro.  
 -java&JavaFx. 
--Sql.
--Tableau.
+ Sql.
+ Tableau.
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,arduino,vscode)](https://skillicons.dev)
 
