@@ -11,6 +11,7 @@ computer Engineering And digital Technology Chulongkorn
 -java&JavaFx. 
  Sql.
  Tableau.
+Html/css/javaScript/React & nextJS & typeScript
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,arduino,vscode)](https://skillicons.dev)
 
