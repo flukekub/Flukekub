@@ -12,7 +12,7 @@ computer Engineering And digital Technology Chulongkorn
 - **Java**, **JavaFx**
 - **SQL**
 - **Tableau**
-Html/css/javaScript/React & nextJS & typeScript
+- **Html/css/javaScript/React & nextJS & typeScript**
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,arduino,vscode)](https://skillicons.dev)
 
